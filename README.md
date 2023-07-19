@@ -3,7 +3,7 @@
   <a href="https://free-wheel-rentals.netlify.app/" target="_blank">FreeWheel Rentals</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./assets/project.png" />
+  <img alt="Demo" src="./project.png" />
 </div>
 
 <br/>
