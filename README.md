@@ -13,7 +13,7 @@
 
 ## Built With
 
-This website <a href="https://free-wheel-rentals.netlify.app/" target="_blank">chakri-portfolio</a> has features like we can buy,sell and rent bicycle and bike.<br/>
+This website <a href="https://free-wheel-rentals.netlify.app/" target="_blank">FreeWheel-Rentals</a> has features like we can buy,sell and rent bicycle and bike.<br/>
 
 This project was built using these technologies.
 
